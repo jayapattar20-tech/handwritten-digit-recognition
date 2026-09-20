@@ -5,7 +5,7 @@ An AI model that recognizes handwritten digits (0-9)
 using Convolutional Neural Networks trained on MNIST dataset.
 
 ## Results
-- Test Accuracy: 98.03%
+- Test Accuracy: 98.81%
 - Dataset: MNIST (60,000 training, 10,000 test images)
 - Model: CNN with 2 Conv layers + MaxPooling + Dense layers
 
@@ -18,7 +18,7 @@ using Convolutional Neural Networks trained on MNIST dataset.
 ## What it does
 - Loads and preprocesses MNIST dataset
 - Trains CNN model with 5 epochs
-- Achieves 98.03% test accuracy
+- Achieves 98.81% test accuracy
 - Predicts on real handwritten digit photos
 - Visualizes predictions with confidence scores
 - Confusion matrix for full evaluation
